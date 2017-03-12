@@ -1,0 +1,2 @@
+[![Build Status](https://img.shields.io/travis/aliaksandr-s/js-stack.svg?style=flat-square)](https://travis-ci.org/aliaksandr-s/js-stack)
+[![Coverage Status](https://img.shields.io/coveralls/aliaksandr-s/js-stack.svg?style=flat-square)](https://coveralls.io/github/aliaksandr-s/js-stack?branch=master)
